@@ -1,10 +1,14 @@
 {
   "name": "random-messages-alejo688",
-  "version": "1.0.0",
-  "description": "random de mensajes",
+  "version": "1.0.1",
+  "description": "I don't know what to write for the first commit",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejo688/random-messages-alejo688.git"
   },
   "keywords": [
     "javascript",
@@ -14,7 +18,11 @@
   "author": "Alejandro Ramirez <alejandroramirez688@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/alejo688/random-messages-alejo688/issues"
+  },
+  "homepage": "https://github.com/alejo688/random-messages-alejo688#readme"
 }
